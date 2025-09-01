@@ -1,2 +1,0 @@
-# Javalab
-Default Constructor 
